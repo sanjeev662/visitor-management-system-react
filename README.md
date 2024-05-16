@@ -48,3 +48,28 @@ Welcome to the Visitor Management System (VMS)! Our system is designed to simpli
 - **Routing**: Implement routing for a seamless user experience and easy navigation within the system.
 - **Models**: Use models for showing details or creating forms.
 - **Pagination and Searching**: Implement frontend as well as backend pagination and searching techniques for fast response.
+
+![login](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/be65aec7-e6aa-4245-9e01-2ef899271a51)
+
+![dashboard](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/647077ca-0c67-40fe-becf-bc923601bf88)
+
+![add-new-visitor-step-form](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/d662ddfe-aa3f-47f7-a5ff-97cb72a13f8b)
+
+![delete-alert-model](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/fad07bf6-d080-4542-aebd-4fff41eabe1e)
+
+![profile-model](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/97b42902-54ac-4c22-8cdf-ae191339dedc)
+
+![view-download-report](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/be9e89f5-8e0b-497b-a49f-6589f31d7669)
+
+![configuration-module](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/d30be889-8dfe-4779-95f0-f7283e8d84c0)
+
+![faq](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/b9279e6e-53f9-483a-850c-4c11336c4376)
+
+
+
+
+
+
+
+
+
