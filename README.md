@@ -65,6 +65,7 @@ Welcome to the Visitor Management System (VMS)! Our system is designed to simpli
 
 ![faq](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/b9279e6e-53f9-483a-850c-4c11336c4376)
 
+![visitor-profile-sidebar](https://github.com/sanjeev662/visitor-management-system-react/assets/94432263/48b7de52-bb2a-4d27-8a51-8d06f75da93d)
 
 
 
