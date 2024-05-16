@@ -1,0 +1,75 @@
+.modalBackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .modalContainer {
+    width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+  }
+  
+  .titleCloseBtn {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 15px 2px 15px;
+  }
+  
+  .titleCloseBtn button {
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .title {
+    text-align: center;
+    padding: 5px 10px 15px 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .body {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .footer button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #cancelBtn {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  #confirmBtn {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  #retryBtn {
+    background-color: #ff9800;
+    color: white;
+  }
+  
